@@ -27,6 +27,10 @@ print(regression.intercept_)
 print(regression.predict([[3300,1300]]))
 ```
 ## Output
+<img width="744" height="603" alt="WhatsApp Image 2026-05-28 at 6 53 34 PM" src="https://github.com/user-attachments/assets/92362ed2-969c-4852-8465-d5eabebb014e" />
+<img width="702" height="517" alt="WhatsApp Image 2026-05-28 at 6 53 49 PM" src="https://github.com/user-attachments/assets/d12432c3-6278-40b4-b67f-804e6ad3c69a" />
+
+
 
 
 ## Result
